@@ -5,3 +5,7 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
 }
+h1{
+    color:blue;
+    background-color: beige;
+}
